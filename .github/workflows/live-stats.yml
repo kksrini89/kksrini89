@@ -1,0 +1,25 @@
+# .github/workflows/live-stats.yml — rewrites the LIVE_STATS block in README.md daily.
+# Numbers are real markdown text, not images — nothing external can break.
+name: Live stats
+on:
+  schedule: [{cron: "15 4 * * *"}]   # daily ~09:45 IST
+  workflow_dispatch:
+  push: {paths: ["scripts/update_stats.py"]}
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Regenerate stats block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_stats.py
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh live stats"
+          file_pattern: README.md
