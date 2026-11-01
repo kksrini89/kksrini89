@@ -24,7 +24,7 @@
 
 <!-- everything between the markers is regenerated daily by scripts/update_stats.py -->
 <!--LIVE_STATS:START-->
-<sub>🛠️ **117 own repos** &nbsp;·&nbsp; 🍴 **48 contributed / forked** &nbsp;·&nbsp; ⭐ **8 stars earned** &nbsp;·&nbsp; 👥 **28 followers** &nbsp;·&nbsp; 📅 **on GitHub 13 yrs**</sub>
+<sub>🛠️ **118 own repos** &nbsp;·&nbsp; 🍴 **48 contributed / forked** &nbsp;·&nbsp; ⭐ **8 stars earned** &nbsp;·&nbsp; 👥 **28 followers** &nbsp;·&nbsp; 📅 **on GitHub 13 yrs**</sub>
 
 | Project | What | ★ | ⑂ | Issues | Last push |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [**dontbemichael**](https://github.com/kksrini89/dontbemichael) | A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents · MIT | 0 | 0 | 0 | Oct 2026 |
 | [**rn-recurrly**](https://github.com/kksrini89/rn-recurrly) | React Native Mobile App for managing subscriptions | 0 | 0 | 0 | May 2026 |
 
-<sub>top languages · TypeScript 38% · JavaScript 33% · HTML 11% · C# 6% · CSS 6% · Dart 4%</sub><br>
+<sub>top languages · TypeScript 37% · JavaScript 33% · HTML 11% · C# 5% · CSS 5% · Dart 4%</sub><br>
 <sub>⚙️ numbers refreshed daily by a GitHub Action — real text, no image services</sub>
 <!--LIVE_STATS:END-->
 
