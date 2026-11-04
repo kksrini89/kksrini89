@@ -24,7 +24,7 @@
 
 <!-- everything between the markers is regenerated daily by scripts/update_stats.py -->
 <!--LIVE_STATS:START-->
-<sub>🛠️ **118 own repos** &nbsp;·&nbsp; 🍴 **48 contributed / forked** &nbsp;·&nbsp; ⭐ **8 stars earned** &nbsp;·&nbsp; 👥 **28 followers** &nbsp;·&nbsp; 📅 **on GitHub 13 yrs**</sub>
+<sub>🛠️ **118 own repos** &nbsp;·&nbsp; 🍴 **48 contributed / forked** &nbsp;·&nbsp; ⭐ **8 stars earned** &nbsp;·&nbsp; 👥 **29 followers** &nbsp;·&nbsp; 📅 **on GitHub 13 yrs**</sub>
 
 | Project | What | ★ | ⑂ | Issues | Last push |
 |---|---|---|---|---|---|
