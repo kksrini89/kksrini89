@@ -8,7 +8,6 @@ I build **apps and AI agents** for solo builders and startups. 13 years shipping
 
 #### 🔭 Building now
 
-- **Multi-agent harnesses** — local offices of agents on Claude Code / Codex subscriptions.
 - **[skills](https://github.com/kksrini89/skills)** — reusable skills for software developers and coding agents.
 - Exploring agent orchestration patterns: isolated worktrees, task DAGs, verification loops.
 
@@ -20,4 +19,4 @@ I build **apps and AI agents** for solo builders and startups. 13 years shipping
 
 #### 🛠 Stack
 
-`TypeScript` · `React` · `Vue` · `Angular` · `Node` · `React Native` · `Electron` · `Tauri` · `AI agents` · Rust (learning)
+`TypeScript` · `React` · `Vue` · `Angular` · `Node` · `React Native` · `Electron` · `Tauri` · `AI agents` · `Rust`
